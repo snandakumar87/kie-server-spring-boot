@@ -211,19 +211,5 @@
         <updatePolicy>daily</updatePolicy>
       </snapshots>
     </repository>
-    <repository>
-      <id>maven-PAM</id>
-      <name>maven-PAM</name>
-      <url>http://nexus-nexus.apps.florida-696e.openshiftworkshop.com/repository/maven-PAM/</url>
-      <layout>default</layout>
-      <releases>
-        <updatePolicy>always</updatePolicy>
-      </releases>
-      <snapshots>
-        <updatePolicy>always</updatePolicy>
-      </snapshots>
-    </repository>
-  </repositories>
-
-
+   
 </project>
